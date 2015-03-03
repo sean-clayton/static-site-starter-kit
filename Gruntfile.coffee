@@ -38,7 +38,7 @@ module.exports = (grunt) ->
           'public/styles.min.css': 'src/styles/styles.scss'
     jade:
       compile:
-        option:
+        options:
           data: (dest, src) ->
             require './data.json'
         files: [

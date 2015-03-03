@@ -1,8 +1,8 @@
 {
-  "name": "tygla-homepage",
+  "name": "Site",
   "version": "1.0.0",
-  "description": "Source for tygla.com",
-  "author": "Sean Clayton, Corey Chase, and Jamie Roling",
+  "description": "Static Site",
+  "author": "Sean Clayton",
   "license": "N/A",
   "devDependencies": {
     "grunt": "^0.4.5",
